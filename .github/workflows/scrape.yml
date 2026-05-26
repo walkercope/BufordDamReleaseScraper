@@ -2,7 +2,9 @@ name: Scrape Buford Dam Schedule
 
 on:
   schedule:
-    - cron: "0 */2 * * *"   # every 2 hours
+    - cron: "0 18 * * *"    # 2:00 PM Eastern (18:00 UTC)
+    - cron: "30 21 * * *"   # 5:30 PM Eastern (21:30 UTC)
+    - cron: "15 2 * * *"    # 10:15 PM Eastern (02:15 UTC next day)
   workflow_dispatch:         # allow manual runs from GitHub UI
 
 jobs:
