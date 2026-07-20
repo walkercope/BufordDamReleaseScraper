@@ -104,8 +104,8 @@
   {
     "date": "7/20/2026",
     "time_slot": "5:00 pm - 6:00 pm",
-    "generation_mw": 27,
-    "flow_rate_cfs": "unknown"
+    "generation_mw": 42,
+    "flow_rate_cfs": "4,000 - 6,500"
   },
   {
     "date": "7/20/2026",
