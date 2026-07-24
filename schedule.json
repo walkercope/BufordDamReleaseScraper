@@ -278,8 +278,8 @@
   {
     "date": "7/25/2026",
     "time_slot": "10:00 pm - 11:00 pm",
-    "generation_mw": 47,
-    "flow_rate_cfs": "4,000 - 6,500"
+    "generation_mw": 6,
+    "flow_rate_cfs": "0 - 700"
   },
   {
     "date": "7/25/2026",
