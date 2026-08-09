@@ -142,5 +142,149 @@
     "time_slot": "11:00 pm - 12:00 pm",
     "generation_mw": 48,
     "flow_rate_cfs": "4,000 - 6,500"
+  },
+  {
+    "date": "8/10/2026",
+    "time_slot": "12:00 am - 1:00 am",
+    "generation_mw": 47,
+    "flow_rate_cfs": "4,000 - 6,500"
+  },
+  {
+    "date": "8/10/2026",
+    "time_slot": "1:00 am - 2:00 am",
+    "generation_mw": 4,
+    "flow_rate_cfs": "0 - 700"
+  },
+  {
+    "date": "8/10/2026",
+    "time_slot": "2:00 am - 3:00 am",
+    "generation_mw": 4,
+    "flow_rate_cfs": "0 - 700"
+  },
+  {
+    "date": "8/10/2026",
+    "time_slot": "3:00 am - 4:00 am",
+    "generation_mw": 4,
+    "flow_rate_cfs": "0 - 700"
+  },
+  {
+    "date": "8/10/2026",
+    "time_slot": "4:00 am - 5:00 am",
+    "generation_mw": 4,
+    "flow_rate_cfs": "0 - 700"
+  },
+  {
+    "date": "8/10/2026",
+    "time_slot": "5:00 am - 6:00 am",
+    "generation_mw": 4,
+    "flow_rate_cfs": "0 - 700"
+  },
+  {
+    "date": "8/10/2026",
+    "time_slot": "6:00 am - 7:00 am",
+    "generation_mw": 4,
+    "flow_rate_cfs": "0 - 700"
+  },
+  {
+    "date": "8/10/2026",
+    "time_slot": "7:00 am - 8:00 am",
+    "generation_mw": 4,
+    "flow_rate_cfs": "0 - 700"
+  },
+  {
+    "date": "8/10/2026",
+    "time_slot": "8:00 am - 9:00 am",
+    "generation_mw": 4,
+    "flow_rate_cfs": "0 - 700"
+  },
+  {
+    "date": "8/10/2026",
+    "time_slot": "9:00 am - 10:00 am",
+    "generation_mw": 4,
+    "flow_rate_cfs": "0 - 700"
+  },
+  {
+    "date": "8/10/2026",
+    "time_slot": "10:00 am - 11:00 am",
+    "generation_mw": 4,
+    "flow_rate_cfs": "0 - 700"
+  },
+  {
+    "date": "8/10/2026",
+    "time_slot": "11:00 am - 12:00 pm",
+    "generation_mw": 4,
+    "flow_rate_cfs": "0 - 700"
+  },
+  {
+    "date": "8/10/2026",
+    "time_slot": "12:00 pm - 1:00 pm",
+    "generation_mw": 4,
+    "flow_rate_cfs": "0 - 700"
+  },
+  {
+    "date": "8/10/2026",
+    "time_slot": "1:00 pm - 2:00 pm",
+    "generation_mw": 4,
+    "flow_rate_cfs": "0 - 700"
+  },
+  {
+    "date": "8/10/2026",
+    "time_slot": "2:00 pm - 3:00 pm",
+    "generation_mw": 4,
+    "flow_rate_cfs": "0 - 700"
+  },
+  {
+    "date": "8/10/2026",
+    "time_slot": "3:00 pm - 4:00 pm",
+    "generation_mw": 4,
+    "flow_rate_cfs": "0 - 700"
+  },
+  {
+    "date": "8/10/2026",
+    "time_slot": "4:00 pm - 5:00 pm",
+    "generation_mw": 4,
+    "flow_rate_cfs": "0 - 700"
+  },
+  {
+    "date": "8/10/2026",
+    "time_slot": "5:00 pm - 6:00 pm",
+    "generation_mw": 4,
+    "flow_rate_cfs": "0 - 700"
+  },
+  {
+    "date": "8/10/2026",
+    "time_slot": "6:00 pm - 7:00 pm",
+    "generation_mw": 4,
+    "flow_rate_cfs": "0 - 700"
+  },
+  {
+    "date": "8/10/2026",
+    "time_slot": "7:00 pm - 8:00 pm",
+    "generation_mw": 4,
+    "flow_rate_cfs": "0 - 700"
+  },
+  {
+    "date": "8/10/2026",
+    "time_slot": "8:00 pm - 9:00 pm",
+    "generation_mw": 4,
+    "flow_rate_cfs": "0 - 700"
+  },
+  {
+    "date": "8/10/2026",
+    "time_slot": "9:00 pm - 10:00 pm",
+    "generation_mw": 4,
+    "flow_rate_cfs": "0 - 700"
+  },
+  {
+    "date": "8/10/2026",
+    "time_slot": "10:00 pm - 11:00 pm",
+    "generation_mw": 120,
+    "flow_rate_cfs": "6,500 - 12,500"
+  },
+  {
+    "date": "8/10/2026",
+    "time_slot": "11:00 pm - 12:00 pm",
+    "generation_mw": 4,
+    "flow_rate_cfs": "0 - 700"
   }
 ]
